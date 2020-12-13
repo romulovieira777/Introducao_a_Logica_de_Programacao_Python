@@ -9,4 +9,4 @@
 - [Laços de Repetição](https://github.com/romulovieira777/Introducao_a_Logica_de_Programacao_Python/tree/main/Se%C3%A7%C3%A3o%2006%20-%20La%C3%A7os%20de%20Repeti%C3%A7%C3%A3o)
 - Conclusão
 
-Link para o curso: https://www.udemy.com/course/logica-de-programacao-algoritmos-com-python/
+Link para o curso 100% Gratuito: [Udemy](https://www.udemy.com/course/logica-de-programacao-algoritmos-com-python/)
